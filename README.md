@@ -8,5 +8,5 @@
 # Why the repo?
 takeaway from repo - good learning projects that students can create to get their hands dirty on. These are just ideas like when people create instagram or facebook for learning purpose -- you can as well get yours hands dirty by starting some ideas here. learnings and takeaways won't be much different when you start understanding and reading about how systems work.
 
-# philosphy
+# philosophy
 at the end of the day, software is nothing but a bunch of system calls. all 0s and 1s which are given a meaning by geeks like us. saas too is nothing but a bunch of network calls of varying nature transfering those 0s and 1s from my system to amazon's system and creating a data entry (changing the world :)).
